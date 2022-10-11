@@ -1,5 +1,4 @@
-Yangtsel Sherap
-[are.na](https://www.are.na/yangtsel-sherap) | [linkedin](https://www.are.na/yangtsel-sherap) | [medium](https://medium.com/@ysherap) 
+Yangtsel Sherap [portfolio](https://ysherap-portfolio.vercel.app/) | [are.na](https://www.are.na/yangtsel-sherap) | [linkedin](https://www.are.na/yangtsel-sherap) | [medium](https://medium.com/@ysherap) 
 
 I am a Front-End Developer for user-oriented digital products with 3+ years of prior experience in product management. My work spans creating feature-rich user interfaces within the healthtech and media spaces through cross-functional collaboration. 
 
